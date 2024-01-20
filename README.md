@@ -1,0 +1,32 @@
+# 21-Days Challenge: Redux Toolkit & Next.js
+
+## Introduction
+- This is 21-days challenge repository of Programming Hero's Next Level Web Development Course!
+
+## Skill
+[x] Redux Toolkit
+
+
+## Outlilne
+The repository is structured as follows:
+- Jan 19, 10:00pm, Friday,	**Module 01**: Get started with Redux. A deep dive into Redux's Philosophy
+- **Day 1**: Jan 20, 10:00am, Saturday	**Module 02** : Hands on State Management & Crud Operation
+- **Day 1**: Jan 20, 10:00pm, Saturday	**Module 03**: Handling Async Tasks Using Redux
+- **Day 2**: Jan 21, 10:00pm, Sunday	**Special Conceptual Session**
+- **Day 3**: Jan 22, 10:00pm, Monday	**Preparation Day 1**
+- **Day 4**: Jan 23, 10:00pm, Tuesday	**Assignment 1 (Release)**
+- **Day 5**: Jan 24, 10:00pm, Wednesday	**Assignment 1 (60 Mark Deadline)**
+- **Day 6**: Jan 25, 10:00pm, Thursday	**Assignment 1 (60 Mark Deadline)**
+- **Day 7**: Jan 26, 10:00pm, Friday	**Assignment 1 (50 Mark Deadline) | CV and Resume Session**
+
+
+## Resources
+- [Redux Toolkit Documentation](https://redux-toolkit.js.org/)
+- [Next.js Documentation](https://nextjs.org/docs)
+- [Notion Doc](https://www.notion.so/saintlyatman/Mission-1-Be-A-Redux-Reaper-bc9c211c77e04857b6fa645e567224a9)
+- [Discord Server](https://discord.gg/gYD6yffs)
+
+## Contact
+- Kamrul Islam - [@wickedaf](https://github.com/wickedaf) [Email](mailto:rd.emon2@gmail.com)
+
+Happy coding!

@@ -1,5 +1,5 @@
 ```
-└── 📁tech-net
+└── 📁redux-toolkit-101
     └── .eslintrc.cjs
     └── .gitignore
     └── index.html
@@ -20,8 +20,20 @@
         └── 📁layout
         └── main.tsx
         └── 📁pages
+            └── Home.tsx
+            └── Login.tsx
+            └── NotFound.tsx
         └── 📁redux
+            └── 📁features
+                └── 📁counter
+                    └── CounterSlice.ts
+                ├── user
+            └── hooks.ts
+            └── 📁middlewares
+                └── logger.ts
+            └── store.ts
         └── 📁routes
+            └── index.tsx
         └── 📁styles
         └── 📁types
         └── 📁utils

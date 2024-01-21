@@ -11,7 +11,7 @@
 ## Outlilne
 The repository is structured as follows:
 - ~~Jan 19, 10:00pm, Friday,	**Module 01: Get started with Redux. A deep dive into Redux's Philosophy**~~
-- **Day 1**: Jan 20, 10:00am, Saturday	**Module 02 : Hands on State Management & Crud Operation**~~
+- ~~**Day 1**: Jan 20, 10:00am, Saturday	**Module 02 : Hands on State Management & Crud Operation**~~
 - ~~**Day 1**: Jan 20, 10:00pm, Saturday	**Module 03: Handling Async Tasks Using Redux**~~
 - ~~**Day 2**: Jan 21, 10:00pm, Sunday	**Special Conceptual Session**~~
 - ~~**Day 3**: Jan 22, 10:00pm, Monday	**Preparation Day 1**~~
